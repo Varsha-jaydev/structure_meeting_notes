@@ -162,6 +162,7 @@ meeting-notes-agent/
 
 ### 🤖 Generated Meeting Notes
 
-![Meeting Notes Agent - Generated Notes](screenshots/examples2.png)
+![Meeting Notes Agent - Generated Notes](screenshots/example2.png)
+![Meeting Notes Agent - Generated Notes](screenshots/example3.png)
 
 ⭐ If you find this project useful, consider giving the repository a star!
